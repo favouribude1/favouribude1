@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on **any data science project**
 
-- 🤝 I’m looking for help with **using reinforcement learning for prediction**
+- 🤝 I’m looking for help with **using reinforcement learning for automation**
 
 - 👨‍💻 All of my projects are available at [Github.com/favouribude1](Github.com/favouribude1)
 
-- 💬 Ask me about **anything data-science related and software development,and I'll be happy to help you out**
+- 💬 Ask me about **anything data-science related" and I'll be happy to help you out**
 
 - 📫 How to reach me **email me or connect on LinkedIn**
 
