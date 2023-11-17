@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Favour Ibude</h1>
-<h3 align="center">A passionate Data Scientist |Analyst |Software Dveloper</h3>
+<h3 align="center">A Data Scientist |MLOps Engineer |Software Dveloper</h3>
 
 - 🔭 I’m currently working on **buiding up my GitHub with data science project**
 
