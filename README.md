@@ -24,6 +24,8 @@ A Data Scientist and Analyst with a software development background. Has a keen 
 In addition, I am an experienced Software Developer and IT Technical Instructor/Facilitator, with over 3 years of technical and leadership experience across private and public sectors. Also, an Instructional Designer certified from University of Cape Town with demonstrable history of working in the telecommunication/educational sector. 
 </p>
 
+Note:
+Most of the repositories on this page are built by my amazing mentees, and I’m proud to share their work publicly to help others find project ideas and inspiration. These projects represent the learning journeys of many talented individuals, and I hope they serve as a valuable resource for the community.
 
 
 <h3 align="left">Languages and Tools:</h3>
