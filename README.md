@@ -19,7 +19,7 @@
 
 <h3 align="left">Background:</h3>
 <p align="left">
-A Data Scientist and Analyst with a software development background. Has a keen interest using statistical and machine learning techniques to solve business problems with hands-on experience in implementing ETL processes and handling data science projects from development to deployment stage. Skilled in machine learning, statistical analysis, data visualization, programming, data analysis, big data tools, Project Management Tools.
+A Data Scientist with a software development background. Has a keen interest using statistical and machine learning techniques to solve business problems with hands-on experience in implementing ETL processes and handling data science projects from development to deployment stage. Skilled in machine learning, statistical analysis, data visualization, programming, data analysis, big data tools, Project Management Tools.
 
 In addition, I am an experienced Software Developer and IT Technical Instructor/Facilitator, with over 3 years of technical and leadership experience across private and public sectors. Also, an Instructional Designer certified from University of Cape Town with demonstrable history of working in the telecommunication/educational sector. 
 </p>
